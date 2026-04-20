@@ -32,13 +32,13 @@ patterns and build a delay prediction model.
 ## Dashboard Preview
 
 ### Page 1 — Executive Summary
-![Page 1](screenshots/page1_executive.png)
+![Page 1](Page 1.png)
 
 ### Page 2 — Payment Method Analysis  
-![Page 2](screenshots/page2_payment_method.png)
+![Page 2](page 2.png)
 
 ### Page 3 — Risk Heatmap
-![Page 3](screenshots/page3_risk_heatmap.png)
+![Page 3](Page 3.png)
 
 ### Page 4 — Recommendations
 ![Page 4](screenshots/page4_recommendations.png)
